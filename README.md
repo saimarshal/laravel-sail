@@ -43,7 +43,7 @@ sail artisan migrate
 
 # หากไม่สามารถเชื่อมต่อฐานข้อมูลได้
 ```sh
-./vendor/bin/sail artisan migrate
+sail artisan migrate
 ```
 
 
